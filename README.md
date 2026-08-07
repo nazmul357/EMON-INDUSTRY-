@@ -3,9 +3,7 @@ Carrier pathway guidebook
 
 # 📱 Mobile-Built Web Portfolio
 
-[![Built on Mobile](https://img.shields.io/badge/Built%20On-Android%20%2F%20Mobile-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
-[![GitHub Pages](https://img.shields.io/badge/Hosted%20With-GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML5%20%7C%20CSS3%20%7C%20JS-E34F26?style=for-the-badge)](#)
+
 
 > A modern, lightweight, and responsive web application built, committed, and deployed entirely from an Android device using the GitHub app and Spck Editor.
 
@@ -13,7 +11,7 @@ Carrier pathway guidebook
 
 ## 🌐 Live Demo
 
-👉 **[View Live Website](https://<your-username>.github.io/<your-repo-name>/)**
+
 
 ---
 
@@ -42,5 +40,4 @@ Carrier pathway guidebook
 ```text
 ├── index.html        # Main landing page & application entry point
 ├── styles.css        # Custom CSS styling (optional if split from index)
-├── script.js        # Dynamic interactive features (optional)
 └── README.md         # Project documentation & blueprint
