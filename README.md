@@ -10,6 +10,8 @@ Carrier pathway guidebook
 ---
 
 ## 🌐 Live Demo
+[👉 Open Live Website](https://nazmul357.github.io/EMON-INDUSTRY-/)
+
 
 
 
